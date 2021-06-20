@@ -1,0 +1,47 @@
+{
+	"executionReports": [
+		{
+			"id": 1983,
+			"clOrdID": "20200831123540",
+			"orderID": "202003300000089051",
+			"origClOrdID": "",
+			"text": null,
+			"ordRejRes": null,
+			"status": "1",
+			"buyorSell": "1",
+			"securitySubType": "JUNIOR",
+			"time": null,
+			"ordType": "2",
+			"orderQty": "100",
+			"timeInForce": "1",
+			"symbol": "HSE.TO",
+			"qTradeacc": "8117319",
+			"price": "1.80",
+			"lastQty": "50",
+			"lastPx": "1.80",
+			"stopPx": null,
+			"execType": "5",
+			"senderSubID": "JMMBFT001",
+			"seqNum": 42,
+			"sendingTime": "2020-08-29T06:05:00.000234",
+			"messageDate": "2020-08-30T09:05:47.2766989"
+		}
+	],
+	"rejectMessages": [
+		{
+			"id": 39,
+			"refSeqNum": "78",
+			"refTagID": null,
+			"refMsgType": "3",
+			"sessionRejectReason": "11",
+			"text": "(1468): Invalid MsgType(35)",
+			"senderSubID": "JMMBFT001",
+			"seqNum": 60,
+			"sendingTime": "2020-04-29T09:05:51.288616",
+			"messageDate": "2020-04-30T09:05:47.3790336"
+		}
+	],
+	"logoutMessages": [],
+	"orderCancelRejectMessages": [],
+	"businessRejectMessages": []
+}
